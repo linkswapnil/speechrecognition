@@ -1,7 +1,7 @@
 # Install either via
 
 1. `git clone git@github.com:linkswapnil/speechrecognition.git`
-2. `cd angular-boilerplate`
+2. `cd speechrecognition`
 3. `npm -g install grunt-cli karma`
 4. `gem install sass`
 4. `npm install`
